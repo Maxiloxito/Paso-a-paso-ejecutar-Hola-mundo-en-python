@@ -14,4 +14,21 @@ Paso a paso para ejecutar "Hola mundo"
 11) Descargar e instalar visual estudio code.
 12) Ejecutar visual estudio code.
 13) Dirigirse a la opcion de EXTENSIONES o EXTENSIONS presionando Cntrl + shift + X
-14) Hace izquierdo en el recuadro "Buscar extensiones en marketplace" o "Search Extensions in Marketplace" en 
+14) Hace izquierdo en el recuadro "Buscar extensiones en marketplace" o "Search Extensions in Marketplace"
+15) Buscar/Teclaer Python y seleccionar la primera opcion.
+16) Hace click en instalar
+17) Presionar en "File" que se encuentra en la parte superior izquierda del Visual Studio Code.
+18) Click en "New File" y con ello se le creara una seccion para escribir como un block de notas llamado Untitled
+19) Nuevamente hacer click en "File" y "Save As" o "Guardar como".
+20) Se le abrira una pestaña de explorador de archivos.
+21) Puede dejar o cambiar el nombre a gusto del archivo.
+22) En "tipo:" estara seleccionado "Plain Text", lo debemos de cambiar a "Python".
+23) Listo ya estara para programar con python.
+24) Escribir en el archivo "print("Hola Mundo.")".
+25) Presionar en el teclado Shift + enter.
+26) Dentro del terminal le saldra el codigo escrito y el resultado que da el codigo.
+27) Tambien puede utilizarse en cmd. Presionando la tecla de windows.
+28) Escribir "cmd" y enter.
+29) Dependiendo de donde alla usted guardado en archivo debera de seleccionar la carpeta.
+30) Dentro de cmd debera de escribir "cd" + "Carpeta donde guardo el archivo python" (Ej: cd Downloads [Guardado en descargas])
+31)
