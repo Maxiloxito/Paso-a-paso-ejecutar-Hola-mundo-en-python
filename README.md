@@ -30,5 +30,6 @@ Paso a paso para ejecutar "Hola mundo"
 27) Tambien puede utilizarse en cmd. Presionando la tecla de windows.
 28) Escribir "cmd" y enter.
 29) Dependiendo de donde alla usted guardado en archivo debera de seleccionar la carpeta.
-30) Dentro de cmd debera de escribir "cd" + "Carpeta donde guardo el archivo python" (Ej: cd Downloads [Guardado en descargas])
-31)
+30) Dentro de cmd debera de escribir "cd" + "Carpeta donde guardo el archivo python" + enter (Ej: cd Downloads [Guardado en descargas])
+31) Ya seleccionada la carpeta debera de escribir "py" "Nombre del archivo.py". En caso de no analizar y que no muestre "Hola mundo" debera de escribir "python" "Nombre del archivo.py".
+32) Listo, ya tiene ejecutado y programado "Hola mundo".
